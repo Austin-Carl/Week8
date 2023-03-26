@@ -1,0 +1,76 @@
+
+#center{
+    text-align: center;
+}
+#header {
+    color: red;
+    text-align: center;
+}
+
+#tan{
+    color:tan;
+    background-color: black;
+}
+
+#yellow{
+    color: yellow;
+    background-color: black;
+
+}
+
+#green{
+    color:green;
+    background-color: black;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 5px;
+    background-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin-right: 40px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: rgb(244, 245, 208);
+}
+
+table {
+    border-collapse: separate;
+    width: 100%;
+    border: 5px solid;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+td {
+    font-weight: bold;
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
